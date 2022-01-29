@@ -1,0 +1,19 @@
+{
+  "name": "spotify-together-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montgomerysamantha/spotify-together.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/montgomerysamantha/spotify-together/issues"
+  },
+  "homepage": "https://github.com/montgomerysamantha/spotify-together#readme"
+}

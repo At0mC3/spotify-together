@@ -114,3 +114,21 @@
     flex-direction: column;
   }
 }
+
+.navbar > .container {
+  max-width: 100%;
+  margin: 5rem;
+  padding: 5rem;
+}
+
+.navbar {
+  margin: 5rem;
+  padding: 5rem;
+}
+
+.brand {
+  margin: 5rem;
+  margin-left: 100px !important;
+  position: relative;
+  padding: 5rem;
+}
